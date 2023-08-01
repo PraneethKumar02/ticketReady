@@ -37,7 +37,7 @@ The main aim of this project is to provide a user-friendly website that enables 
    - Open phpMyAdmin.
    - Create a database named "railres."
    - Import the "railres.sql" file from the downloaded folder into the database.
-4. Open your browser and go to "http://localhost/railway-reservation-system-in-php/".
+4. Open your browser and go to "http://localhost/ticketReady-main/".
 
 
 We hope this Railway Reservation System enhances your travel experience and provides a seamless ticket reservation process. Feel free to contribute to the project or provide feedback to improve the system. Happy traveling!
