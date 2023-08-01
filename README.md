@@ -1,4 +1,4 @@
-# Railway Reservation System - Readme
+# Railway Reservation System
 
 **Description**
 The Railway Reservation System is a web-based application designed to manage all reservation-related functions for different zones. Each zone stores information about train names, schedules, and seat availability. The system enables administrators to make changes to train information, such as train name or number. It also allows passengers to reserve seats in a train for a specified date of journey.
